@@ -4,6 +4,10 @@
 
 I'm a Full Stack Web Developer with a knack for problem-solving and an insatiable curiosity for learning new technologies. I have honed my skills in Ruby, JavaScript ES6, SQL, git, GitHub, Heroku, HTML, CSS, and Bootstrap. I've also dabbled in React, VueJS, PHP, Python, Java, and C++, but I'm still on the journey of mastering these technologies.
 
+## 🛠️ Tinkering with Virtual Machines
+
+In addition to my web development skills, I have a keen interest in working with virtual machines, particularly with Linux. I enjoy the challenge of setting up and configuring these systems, and I find great satisfaction in getting them to run smoothly. I've had hands-on experience deploying Apache servers on these virtual machines, which has not only expanded my technical skills but also deepened my understanding of server management and network configurations. This tinkering has further fueled my passion for technology and problem-solving.
+
 ## 🚀 Projects
 
 - [ATYPICALNB](https://github.com/Peuf54/AtypicalnB) - A platform for booking atypical accommodations.
