@@ -19,7 +19,7 @@ I'm always on the lookout for new technologies and tools to master. Currently, I
 
 ## 📫 How to reach me
 
-You can reach me at h.petament@icloud.com, or on [LinkedIn](https://www.linkedin.com/in/hugo-petament/). You can also check out my [portfolio](http://hugoptm.com) - it's under construction, but isn't that the developer's perpetual state? 😉
+You can reach me at h.petament@icloud.com, or on [LinkedIn](https://www.linkedin.com/in/hugo-petament/). You can also check out my [portfolio](http://hugoptm.com) - it's under construction, but isn't that the developer's perpetual state?😉 (For now it's just my shopping list)
 
 ## 💻 Technologies
 
