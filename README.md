@@ -13,7 +13,7 @@ In addition to my web development skills, I have a keen interest in working with
 - [ATYPICALNB](https://github.com/Peuf54/AtypicalnB) - A platform for booking atypical accommodations.
 - [FORMATIK](https://github.com/Peuf54/Formatik) - An application to automate administrative management for training professionals.
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m always learning ...
 
 I'm always on the lookout for new technologies and tools to master. Currently, I'm focusing on deepening my knowledge in JavaScript and exploring its various frameworks.
 
