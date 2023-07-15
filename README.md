@@ -21,8 +21,9 @@ I'm always on the lookout for new technologies and tools to master. Currently, I
 
 You can reach me at h.petament@icloud.com, or on [LinkedIn](https://www.linkedin.com/in/hugo-petament/). 
 
-You can soon check out my [portfolio]([http://hugoptm.com](https://quiet-bayou-88856-90f40dd815af.herokuapp.com/) - it's under construction, but isn't that the developer's perpetual state?😉
-(You can also follow the state of my [shopping list](http://hugoptm.com) ).
+You can soon check out my [portfolio](https://quiet-bayou-88856-90f40dd815af.herokuapp.com/) - it's under construction, but isn't that the developer's perpetual state?😉
+
+( You can also follow the state of my [shopping list](http://hugoptm.com) ).
 
 ## 💻 Technologies
 
