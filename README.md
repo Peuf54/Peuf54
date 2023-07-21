@@ -12,7 +12,9 @@ In addition to my web development skills, I have a keen interest in working with
 
 - [REPO](https://github.com/Peuf54/AtypicalnB) - AtypicalNB - A platform for booking atypical accommodations.
 - [REPO](https://github.com/Peuf54/Formatik) - Formatik - An application to automate administrative management for training professionals.
-- [REPO](https://github.com/Peuf54/24h-rent-cars-challenge) - [WEBSITE](https://24h-rent-cars-challenge.hugoptm.fr) - 24h Rent Cars Challenge - My version of a 24h challenge. 1 day to develop and deploy a car rental app. (email: test@test.com, password: password)
+- [REPO](https://github.com/Peuf54/24h-rent-cars-challenge) - [WEBSITE](https://24h-rent-cars-challenge.hugoptm.fr) - 24h Rent Cars Challenge - My version of a 24h challenge. 1 day to develop and deploy a car rental app.
+
+  Applications where you need to be logged are deployed with a default user : email: test@test.com, password: password
 
 ## 🌱 I’m always learning ...
 
