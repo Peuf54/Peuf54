@@ -15,6 +15,7 @@ In addition to my web development skills, I have a keen interest in working with
   
     Demo video explaining [Formatik](https://formatik.hugoptm.fr) By Hugo Vetrano : [HERE](https://www.youtube.com/watch?v=fV_ARazQq-M) (4 mins 06)
 - [REPO](https://github.com/Peuf54/24h-rent-cars-challenge) - [WEBSITE](https://24h-rent-cars-challenge.hugoptm.fr) - 24h Rent Cars Challenge - My version of a 24h challenge. 1 day to develop and deploy a car rental app.
+- [REPO](https://github.com/Peuf54/ocr-image-reader) - [WEBSITE](https://ocr-image-reader.hugoptm.fr) - OCR Image Reader - I know you dream of being able to transcribe the text of an image and be able to copy/paste it. Now you can stop dreaming and visit the [WebApp](https://ocr-image-reader.hugoptm.fr).
 
 ⚠️ ⚠️ ⚠️ My applications are deployed with a default user : email: test@test.com, password: password ⚠️ ⚠️ ⚠️
 
