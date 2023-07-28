@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Full Stack Web Developer
 
-I'm a Full Stack Web Developer with a knack for problem-solving and an insatiable curiosity for learning new technologies. I have honed my skills in Ruby, JavaScript ES6, SQL, git, GitHub, Heroku, HTML, CSS, and Bootstrap. I've also dabbled in React, VueJS, PHP, Python, Java, and C++, but I'm still on the journey of mastering these technologies.
+I'm a Full Stack Web Developer with a knack for problem-solving and an insatiable curiosity for learning new technologies. I have honed my skills in Ruby, Ruby on Rails, JavaScript ES6, SQL, git, GitHub, Heroku, HTML, CSS, and Bootstrap. I've also dabbled in React, VueJS, PHP, Python, Java, and C++, but I'm still on the journey of mastering these technologies.
 
 ## 🛠️ Tinkering with Virtual Machines
 
