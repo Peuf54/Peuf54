@@ -1,5 +1,21 @@
 # 👋 Hello, I'm Hugo Petament!
 
+### RailsHackathon 2023's Project - [GemSentinel.com](https://gemsentinel.com)
+
+[REPO](https://github.com/Peuf54/GemSentinel.com) - [WEBSITE](https://gemsentinel.com) - GemSentinel - A powerful tool for tracking and managing your Ruby gems. Easily keep an eye on gem dependencies, get alerted for new updates, and stay secure by identifying outdated or potentially harmful gems.
+
+Built with:
+-  Backend: Ruby on Rails
+-  Frontend: React, JavaScript, and JSX
+-  API: RESTful endpoints for data retrieval and creation
+-  Databse: PostgreSQL
+-  Scheduled Tasks: Ruby scripts programmed in a cron table for regular updates
+-  User Authentication: Devise
+-  JSX Transpiler: Babel
+-  Icons: Font Awesome integrated with React using Yarn
+-  Service-Oriented Approach: Complex logic organized into services
+-  Production Hosting: Digital Ocean managed by Hatchbox for reliable deployment and management
+
 ## 👨‍💻 Full Stack Web Developer
 
 I'm a Full Stack Web Developer with a knack for problem-solving and an insatiable curiosity for learning new technologies. I have honed my skills in Ruby, Ruby on Rails, JavaScript ES6, SQL, git, GitHub, Heroku, HTML, CSS, and Bootstrap. I've also dabbled in React, VueJS, PHP, Python, Java, and C++, but I'm still on the journey of mastering these technologies.
