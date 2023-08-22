@@ -47,8 +47,6 @@ You can reach me at h.petament@icloud.com, or on [LinkedIn](https://www.linkedin
 
 You can check out my [portfolio](https://www.hugoptm.fr/) - it's under construction, but isn't that the developer's perpetual state?😉
 
-( You can also follow the state of my [shopping list](http://hugoptm.com) ).
-
 ## 💻 Technologies
 
 <p align="left">
