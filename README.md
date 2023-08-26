@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Hugo Petament!
 
+### CEO & Fullstack Developer - [HP Web Solutions.com](https://hpwebsolutions.fr)
 ### RailsHackathon 2023's Project - [GemSentinel.com](https://gemsentinel.com)
 
 [REPO](https://github.com/Peuf54/GemSentinel.com) - [WEBSITE](https://gemsentinel.com) - GemSentinel - A powerful tool for tracking and managing your Ruby gems. Easily keep an eye on gem dependencies, get alerted for new updates, and stay secure by identifying outdated or potentially harmful gems.
